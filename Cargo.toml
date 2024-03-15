@@ -2,6 +2,8 @@
 name = "attempts"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+authors = ["stan.vandijk2001@outlook.com"]
 
 [dependencies]
 ureq = {version = "2.9.6",features = ["json"]}
